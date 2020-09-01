@@ -1,0 +1,65 @@
+body {background-color: black}
+
+.evthing{
+	 position: absolute;
+	 top:50%;
+	 left:50%;
+	 transform: translate(-50%,-50%);
+	 width: 475px;
+	 height:300px;
+     background-color: white;
+     padding:15px 15px 15px 15px;
+ }
+.titlimg{
+	overflow:hidden;
+	
+	;
+
+}
+.titlimg img{
+	max-width: 58px;
+	float:right;
+}
+.title1 h1{
+	 font-family: 'Architects Daughter', cursive;
+	 margin:0;
+     
+}
+.text{
+	font-family: 'Architects Daughter', cursive;
+	font-size: 16px;
+	float:left;
+	width:50%;
+}
+input{
+	 font-family: 'Architects Daughter', cursive;
+	 font-size: 17px;
+	 padding:2px;
+	 margin-bottom: 5px
+	 }
+
+.pinput{
+	 overflow:hidden;
+     margin:0;}
+.input1{
+	 float:right;
+     width:50%;
+    }
+
+.pinput input{ 
+	 border:none;
+	 border-bottom: 1px solid #d3d3d3;
+	 width: 225px;
+	 background-color: transparent;
+
+}
+.button{font-family: 'Architects Daughter', cursive;
+     font-size:16px;
+	 text-align: center;
+	 
+}
+.button input[type=submit]{
+     border:none;
+     background-color: lightgrey;
+     padding: 3px 3px 6px 3px;
+    }
